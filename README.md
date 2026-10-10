@@ -1,6 +1,6 @@
 # Google LCS AM · Interview Prep
 
-私有仓库，仅本人可见。
+在线地址：**https://litchili718-hub.github.io/google-lcs-am-interview-prep/**
 
 | 文件 | 内容 |
 |---|---|
@@ -17,4 +17,4 @@
 
 ## 阅读方式
 
-私有仓库无法开启 GitHub Pages。在线看点 `Raw`，本地阅读点 `Code → Download ZIP`。
+GitHub Pages 已开启，直接用上面的在线地址打开。两个 HTML 均为单文件自包含，无外部依赖，离线可用。
